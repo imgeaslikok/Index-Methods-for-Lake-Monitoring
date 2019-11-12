@@ -1,7 +1,3 @@
-% Start with a folder and get a list of all subfolders.
-% Finds and prints names of all files in 
-% that folder and all of its subfolders.
-% Similar to imageSet() function in the Computer Vision System Toolbox: http://www.mathworks.com/help/vision/ref/imageset-class.html
 clc;    % Clear the command window.
 workspace;  % Make sure the workspace panel is showing.
 format long g;
